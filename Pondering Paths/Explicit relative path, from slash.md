@@ -1,3 +1,8 @@
+# Explicit relative path, from /
+
+## Procedure
+Start the clallenge, then i connected to my ubuntu terminal. then to find which path i am in, i used pwd after that i wanted to go to prev directoriees hence i used cd ../ after i reached the / directory i had lots of confusion and then got to know to do `./challenge/run` and then found the flag which i copied to my Flag box.
+
 ## bash
 `Connected!
 hacker@paths~explicit-relative-paths-from-:~$ pwd
