@@ -2,7 +2,8 @@
 
 ## Procedure
 I started the challenges, i connected to my terminal.<br>
-then i used 
+then i used `cd /challenge/files` and then used `/challenge/run [cep]*` and then found the flag.
+i copied the flag unto the flag box.
 
 ## bash
 `Connected!
