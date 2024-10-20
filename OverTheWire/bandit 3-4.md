@@ -1,7 +1,7 @@
 # bandit 3-4
 
 ## Procedure
-I connected then i used `cd inhere` then i used `cat ..Hiding-From-You` and got the 
+I connected then i used `cd inhere` then i used `cat ...Hiding-From-You` and got the 
 password.
 
 ## bash
